@@ -1,8 +1,10 @@
 # Pizza Liker!
 
+Start by running `npm install`
+
 A db.json file is included, to start the json server run the command `json-server --watch db.json`.
 
-If this doesn't work be sure to run `npm install json-server`.
+Open the `index.html` file using live server and begin.
 
 ## Deliverables
 
