@@ -1,0 +1,9 @@
+img {
+    width: 250px;
+    height: auto;
+}
+
+#likes {
+    display: flex;
+    flex-direction: row;
+}
