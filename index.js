@@ -69,7 +69,6 @@ form.addEventListener("submit", (event) => {
 
 // function incrementLikes(event) {
 //   // how do I access the pizzas likes
-//   // debugger;
 //   let likesPTag = event.target.parentElement.lastChild;
 //   likesPTag.innerText = parseInt(likesPTag.innerText) + 1 + " likes";
 // }
